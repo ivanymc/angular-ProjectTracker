@@ -1,0 +1,17 @@
+.project-items {
+  background: #f3efef;
+  margin-bottom: 15px;
+  padding: 10px 20px;
+  cursor: pointer;
+}
+
+.project-items a {
+  text-decoration: none;
+  color: #000;
+}
+
+.project-items h3 {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
